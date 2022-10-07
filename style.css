@@ -1,0 +1,41 @@
+body {
+    background: gray;
+    margin: 1000;
+    color: pink;
+    font-style: italic;
+    text-align: center;
+    font-size: 22px;
+      }
+
+#backgroundImage {
+         visibility: hidden;
+         width: 100%;
+      }
+
+h6 {
+  color: black
+}
+
+button {
+  border: none;
+  background-color: burlywood;
+  color: black;
+  transition: filter 0.2s;
+}
+
+input, button {
+  padding: 8px;
+  font-size: 20px;
+  border-radius: 4px;
+ }
+
+#caixaDeTexto {
+  background-color: white;
+  border: none
+  
+}
+
+input{
+  margin-bottom: 5px;
+  
+}
